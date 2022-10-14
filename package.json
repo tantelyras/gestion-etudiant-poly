@@ -2,7 +2,7 @@
   "name": "gesetudiant-dev",
   "version": "1.0.0",
   "description": "Une simple application de gestion etudiant",
-  "author": "Adonai NANGUI <adonainangui03@gmail.com>",
+  "author": "Tantelinirina RASOLONIAINA <ttlrasoloniainagmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
