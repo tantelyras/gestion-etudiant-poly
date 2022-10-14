@@ -3,7 +3,7 @@
     <div class="nav-wrapper indigo">
       <router-link to="/"
           class="brand-logo">
-          Gestion Etudiants
+          Gestion Etudiants Poly
         </router-link>
       <div class="container">
         <ul class="right">
